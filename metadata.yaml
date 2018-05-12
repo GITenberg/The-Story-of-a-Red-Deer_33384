@@ -1,0 +1,33 @@
+_repo: The-Story-of-a-Red-Deer_33384
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33384-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fortescue, J. W. (John William), Sir
+    alias: Fortescue, John William, Sir
+    birthdate: 1859
+    deathdate: 1933
+    gutenberg_agent_id: '8884'
+    url: http://www.gutenberg.org/2009/agents/8884
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Fortescue
+description: A story of a young deer and the treacherous life he leads in the forest.
+gutenberg_issued: '2010-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox hunting -- Juvenile fiction'
+- !lcsh 'Red deer -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Death -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: The Story of a Red Deer
+url: http://www.gutenberg.org/ebooks/33384
